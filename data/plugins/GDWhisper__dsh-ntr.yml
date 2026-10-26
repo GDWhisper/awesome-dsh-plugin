@@ -1,0 +1,6 @@
+url: https://github.com/GDWhisper/dsh-ntr
+name: GDWhisper/dsh-ntr
+category: tools
+description:
+  en: 'Lets a DSH conversation be served by any ACP agent over stdio: agent, model, thinking level and permission modes come from the agent itself, tool calls and diffs stream into the main chat, and approval requests appear in the composer.'
+  zh: '让一条 DSH 会话由任意 ACP agent 通过 stdio 服务：agent、模型、思考等级与权限模式全部由 agent 自己提供，工具调用与 diff 流入主聊天区，权限询问出现在输入框里。'
